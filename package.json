@@ -1,0 +1,19 @@
+{
+  "name": "jschatbox",
+  "version": "1.0.0",
+  "description": "A JavaScript Chat application using the MEAN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdlogan9/jschatbox.git"
+  },
+  "author": "cdlogan9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdlogan9/jschatbox/issues"
+  },
+  "homepage": "https://github.com/cdlogan9/jschatbox#readme"
+}
